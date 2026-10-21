@@ -1,0 +1,3 @@
+# Keep search engines out of the card pages.
+User-agent: *
+Disallow: /
